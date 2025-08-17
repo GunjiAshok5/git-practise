@@ -38,7 +38,7 @@ git log : this command is used to check commit history.
 
 ==========================================================
 
-   git soft reset command exploring and git revert command checking
+
 
 
 =======================================================
