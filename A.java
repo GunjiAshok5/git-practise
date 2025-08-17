@@ -38,7 +38,7 @@ git log : this command is used to check commit history.
 
 ==========================================================
 
-checking git revert command in central repository
+
 
 
 =======================================================
